@@ -15,7 +15,7 @@ class GameSprite(sprite.Sprite):
         self.rect.y = player_y
         self.speed = player_speed
         
-
+# asdawd # 
     def blid(self):
         window.blit(self.image,(self.rect.x, self.rect.y))
 
